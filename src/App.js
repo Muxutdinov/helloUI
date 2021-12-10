@@ -5,6 +5,7 @@ import Intro from "./components/Intro";
 import Introo from "./components/Introo";
 import Develop from "./components/Develop";
 import Dojust from "./components/Dojust";
+import LastComp from "./components/LastComp";
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <Introo />
       <Develop />
       <Dojust />
+      <LastComp />
     </div>
   );
 };
